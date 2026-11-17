@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="100%" height="100%">
+  <rect width="1200" height="750" fill="#121212"/>
+  <defs>
+    <pattern id="dotgrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#252525"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="750" fill="url(#dotgrid)" />
+  <rect x="120" y="160" width="380" height="380" fill="none" stroke="#333" stroke-width="2"/>
+  <circle cx="310" cy="350" r="130" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <polygon points="310,220 422,415 198,415" fill="none" stroke="#888888" stroke-width="2"/>
+  <text x="560" y="290" font-family="'Anton', sans-serif" font-size="110" font-weight="900" fill="#ffffff" letter-spacing="2">POSTER ART</text>
+  <text x="565" y="360" font-family="'Anton', sans-serif" font-size="75" font-weight="900" fill="#666666" letter-spacing="1">&amp; VISUAL SYSTEM</text>
+  <text x="565" y="440" font-family="'Manrope', sans-serif" font-size="24" font-weight="600" fill="#cccccc">Geometric &amp; Swiss Minimalist Poster Series</text>
+  <text x="565" y="485" font-family="'Manrope', sans-serif" font-size="16" font-weight="400" fill="#777777">Karya desain grafis, poster, dan eksplorasi komposisi visual.</text>
+  <text x="125" y="120" font-family="'Manrope', sans-serif" font-size="18" font-weight="700" fill="#888888" letter-spacing="5">GRAPHIC DESIGN · EDITORIAL</text>
+  <circle cx="1060" cy="120" r="14" fill="#ffffff"/>
+</svg>
